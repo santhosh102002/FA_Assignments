@@ -1,0 +1,8 @@
+1.Traditionally, Hello World programs are used to illustrate how the process of coding works, as well as to ensure that a language or system is operating correctly.
+2. Comments are used to increase the readability of the program and also they act as documentation.
+    In HTML the comments are written as: <!--...-->
+3. HTML ELEMENT: html starting tag+content+html ending tag is known as html element.
+   HTML tag is commonly defined as a set of characters constituting a formatted command for a Web page.
+   An HTML attribute is a piece of markup language used to adjust the behavior or display of an HTML element.
+4. An HTML entity is a piece of text ("string") that begins with an ampersand ( & ) and ends with a semicolon ( ; ). 
+   Entities are frequently used to display reserved characters (which would otherwise be interpreted as HTML code), and invisible characters (like non-breaking spaces).
