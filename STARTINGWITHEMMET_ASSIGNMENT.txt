@@ -1,0 +1,4 @@
+1. Emmet is a free add-on for your text editor that allows you to type shortcuts that are then expanded into full pieces of code.
+2. Advantages: 1. With Emmet you can quickly create an HTML 
+                  boilerplate in the blink of an eye.             
+               2. It also gives shortcuts.
