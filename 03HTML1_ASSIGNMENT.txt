@@ -1,0 +1,19 @@
+1. An inline element does not start on a new line. An inline element only takes up as much width as necessary. 
+   A block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.
+   Examples for inline elements: span, a, img, b, br.
+   Examples for blockline elements: hr, div, p, address.
+
+2. <img/> tag is used to add the images to our webpage.
+   It has many attributes mainly it has src, width, height,alt.
+   src is used to give the image file like image.png and alt is used to give text to image.
+
+3. In html we have 3 types of lists.
+  They are ordered list,unordered list, discription list.
+  Inorder to create the ordered list we have to use <ol> and to create unordered list we have to use <ul>
+  and to create discrption list we have to use <dl>.
+
+4. To interlink interlink the wepages we have to use the anchor tag <a>
+   And href is the attribute of <a> tag.
+   the link is given in the href so that it will navigate people to other page.
+   example: <a href="www.google.com>santhosh</a>
+    
