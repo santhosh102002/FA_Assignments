@@ -1,0 +1,16 @@
+1.Table in html helps to create a table with the help of <table> tag.
+  And it has <tr> <th> <td> tags to give the values and heading to the table.
+
+2.Some of the media elements in the html are:
+  Video tag, Img tag, audio tag.
+  The Video tag takes the link of the video and displays the video on the wepage.
+  The img tag takes the link of the image and displays the image on the wepage.
+  The audio tag takes the link of the audio and plays the audio on the wepage.
+
+3. After submitting the form, the GET method displays form values in the address
+bar of the new browser tab.
+   Unlike the GET method, the post method prevents form values from appearing
+   in the address bar of the new browser tab after the form has been submitted.
+
+4. The types of input forms are:
+    placeholder, readonly,value, disable, size, autofocus.
