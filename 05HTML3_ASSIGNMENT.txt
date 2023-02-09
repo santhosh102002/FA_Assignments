@@ -1,0 +1,16 @@
+1. The new things added in html5 are:
+    The semantic tags like header, footer, main, aside, article details, summary etc are added.
+    It supports the SEO.
+    It supports audio, video and other multimedia content is supported by using the audio,img,video tags.
+
+2. In HTML, semantic tags are tags that describe the meaning or purpose of the content they contain.
+   Semantic tags are used to add meaning to the content of a webpage, making it easier for search engines and other
+   systems to understand the content of a webpage.
+   Examples: article, aside, header, footer, main etc
+
+3. Somes uses of semantic tags are:
+    Improves readibility and maintainability
+    Enhanced accessibility
+    Better SEO
+    Simplifed styling.
+
