@@ -1,0 +1,9 @@
+1. CSS Means Cascading style sheet is used to style and layout webpage.
+   It is used to add colors,font,size and spacing.
+
+2.There are 3 ways:
+    1.Inline Css
+    2. Internal Css
+    3. external Css
+
+3.Specificity is an algorithm that calculates the weight that is applied to a given CSS declaration.  
