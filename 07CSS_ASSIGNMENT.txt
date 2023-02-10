@@ -1,0 +1,11 @@
+1. CSS selectors are used to target the HTML elements on our web pages that we want to style.
+
+2. Different types of selectors in css are as follows:
+   i. simple selectors
+   ii. Combinators 
+   iii. attribute selectors
+   iv. pseudo-class selectors
+   v. pseudo-elements selectors
+
+3.We will go to the google fonts and we can select our required fonts and we have to copy the link either import or link tag.
+  And paste it under the style tag and we can use it in our css style sheet.
